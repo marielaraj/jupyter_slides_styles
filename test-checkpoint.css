@@ -1,0 +1,23 @@
+h1 {
+  font-size: 100px !important;
+  color: red !important;
+  font-family: "Times New Roman" !important;
+}
+
+h2 {
+  font-size: 50px !important;
+  color: black !important;
+  font-family: "Arial" !important;
+  background-image: url(md_logo.png) !important;
+}
+
+h3 {
+  font-size: 30px !important;
+  color: green !important;
+}
+
+p {
+  font-size: 14px;
+  color: violet !important;
+  background-color:Tomato;
+}
