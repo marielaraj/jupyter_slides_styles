@@ -19,7 +19,7 @@ Algunos puntos a tener en cuenta:
 
 Completar Además IMAGENES Ver opciones: [css para imagenes](https://www.w3schools.com/css/css3_images.asp)
 
-## Creación del environment
+## Pasos para crear una jupyter slide con estilos predefinidos
 
 0. Creamos un entorno virtual, en este caso lo estamos nombrando como "slides" y lo inicializamos:
 
